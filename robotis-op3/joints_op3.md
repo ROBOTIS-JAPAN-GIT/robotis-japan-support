@@ -13,7 +13,7 @@
 ## Motion Range
 
 <b>Note:</b>
-- 配布されているROBOTIS OP3のURDFモデルでは関節可動範囲のパラメーター設定がされておらず、すべての関節の可動範囲が-0.9π to 0.9πとなっているので注意が必要。
+- 配布されているROBOTIS OP3のURDFモデルでは関節可動範囲のパラメーター設定がされておらず、すべての関節の可動範囲が -0.9π to 0.9π , -2.83rad to +2.83rad となっているので注意が必要。
 
 <b>関節可動範囲一覧</b>
 | ID  | Joint name | Motion | Range(Dynamixel potision) | Range(degrees) ※モーター出力軸CCWが-(マイナス)、CWが+(プラス) |
@@ -38,3 +38,7 @@
 | 18  | Ankle L    | Roll   |                     | -90(足首を外側に開く) to +80(足首を内側に閉じる) |
 | 19  |  Neck      | Yaw(Pan)    |                     | -135(首を左に回す) to +135(首を右に回す) |
 | 20  |  Head      | Pitch(Tilt) |                     | -90(頭が仰ぐ) to +135(頭がうつ向く)  |
+
+## 関連情報
+
+<b>Webots Documentation: ROBOTIS's Robotis OP3</b> <a href ="https://cyberbotics.com/doc/guide/robotis-op3">https://cyberbotics.com/doc/guide/robotis-op3</a>
