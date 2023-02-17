@@ -42,3 +42,5 @@
 ## 関連情報
 
 <b>Webots Documentation: ROBOTIS's Robotis OP3</b> <a href ="https://cyberbotics.com/doc/guide/robotis-op3">https://cyberbotics.com/doc/guide/robotis-op3</a>
+
+<b>op3_kinematics_dynamics</b> <a href ="https://github.com/ROBOTIS-GIT/ROBOTIS-OP3/blob/master/op3_kinematics_dynamics/src/op3_kinematics_dynamics.cpp">https://github.com/ROBOTIS-GIT/ROBOTIS-OP3/blob/master/op3_kinematics_dynamics/src/op3_kinematics_dynamics.cpp</a>
