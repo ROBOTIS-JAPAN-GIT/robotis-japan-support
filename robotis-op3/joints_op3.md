@@ -10,6 +10,9 @@
 - ROBOTIS OP3モデルとしての関節角度が 0[deg] ないし 0[rad] である。
 - <a href ="https://emanual.robotis.com/docs/en/dxl/x/xm430-w350/">Dynamixel XM430-W350-R</a>のPositionの値が 2048 ないし 0x800 である。 
 
+## Joint offset(Calibration)
+- <a href ="https://github.com/ROBOTIS-JAPAN-GIT/robotis-japan-support/issues/30">Issue: ROBOTIS OP3の関節のオフセット(キャリブレーション、トリム調整)の方法を教えてください</a>
+
 ## Motion Range
 
 <b>Note:</b>
